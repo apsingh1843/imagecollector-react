@@ -1,0 +1,24 @@
+body {
+  padding: 50px 0px;
+  z-index: 0;
+  background-color:#9DC88D;
+}
+.heading{
+  background:#164A41;
+  color:white;
+}
+
+.cardmar{
+  padding: 3px;
+}
+.cardhead{
+  background:#fa7804;
+  color:white;
+  padding: 5px;
+}
+
+.cardback{
+  background-color:#c9cdd4;
+  border: none;
+  box-shadow: 5px 10px 10px black;
+}
